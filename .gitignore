@@ -1,0 +1,10 @@
+#忽略webpack 打包提交 node_modules 文件夹
+
+node_modules/
+manifest.json
+manifest*.js
+manifest*.js.map
+.cache/
+cache/
+manifest/
+yarn.lock
