@@ -24,7 +24,7 @@ if (NODE_ENV == "local") {
 		inline:true,		  	//热替换的模式
 		hot:true,			  	//启用热替换
 		compress: true,			//是否开启 gzip 压缩
-		host : "local-deva.flightroutes24.com",
+		host : "local-deva.colien24.top",
 		port : 8080,
 		proxy: (function(){
 			var testObj = {};
